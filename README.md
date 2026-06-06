@@ -12,7 +12,7 @@
 ![Gaming](https://img.shields.io/badge/Gaming-Top%20Up-blue?style=for-the-badge)
 ![Indonesia](https://img.shields.io/badge/Market-Indonesia-red?style=for-the-badge)
 ![Fast](https://img.shields.io/badge/Process-%3C%205%20Seconds-yellow?style=for-the-badge)
-[![Mobile Legend]([https://img.shields.io/badge/NXTGG.COM-LIVE-00C853?style=for-the-badge](https://img.shields.io/badge/Gaming-Top%20Up-blue?style=for-the-badge))]([https://nxtgg.com](https://nxtgg.com/id/order/mobile-legends-bang-bang))
+[![Mobile Legend](https://img.shields.io/badge/Gaming-Top%20Up-blue?style=for-the-badge]([https://nxtgg.com](https://nxtgg.com/id/order/mobile-legends-bang-bang))
 
 <br/>
 
