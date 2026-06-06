@@ -9,9 +9,11 @@
 <br/>
 
 [![Website](https://img.shields.io/badge/NXTGG.COM-LIVE-00C853?style=for-the-badge)](https://nxtgg.com)
-[![Mobile Legend Top Up](https://img.shields.io/badge/Gaming-Top%20Up-blue?style=for-the-badge)](https://nxtgg.com/id/order/mobile-legends-bang-bang)
-[![Free Fire Top Up](https://img.shields.io/badge/Market-Indonesia-red?style=for-the-badge)](https://nxtgg.com/id/order/free-fire)
-[![Website](https://img.shields.io/badge/Process-%3C%205%20Seconds-yellow?style=for-the-badge)](https://nxtgg.com/id/order/pubg%20mobile)
+[![Mobile Legend Top Up](https://img.shields.io/badge/Mobile%20Legends-Top%20Up-blue?style=for-the-badge)](https://nxtgg.com/id/order/mobile-legends-bang-bang)
+[![Free Fire Top Up](https://img.shields.io/badge/Free%20Fire-Top%20Up-orange?style=for-the-badge)](https://nxtgg.com/id/order/free-fire)
+[![PUBG Mobile](https://img.shields.io/badge/PUBG%20Mobile-Top%20Up-yellow?style=for-the-badge)](https://nxtgg.com/id/order/pubg%20mobile)
+[![Valorant](https://img.shields.io/badge/Valorant-Top%20Up-red?style=for-the-badge)](https://nxtgg.com/id/order/valorant)
+[![Magic Chess Go GO](https://img.shields.io/badge/Magic%20Chess%20Go%20Go-Top%20Up-blue?style=for-the-badge)](https://nxtgg.com/id/order/magic-chess-go-go)
 
 <br/>
 
